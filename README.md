@@ -1,5 +1,12 @@
 # Human-Centered Data Science Project
-DATA 512 Final Project: A4-7
+
+### DATA 512 Final Project: A4-7
+### Harris County, Texas
+
+* [A4 - Preliminary Analysis on COVID Mask Mandates](https://github.com/smuktevi/data512-a7project/tree/main/A4)
+* [A5 - Extension Plan for COVID in Harris County, Texas](https://github.com/smuktevi/data512-a7project/tree/main/A5) 
+* [A6 - Presentation of Analysis](https://github.com/smuktevi/data512-a7project/tree/main/A6)
+* [A7 - "*Understanding COVID Transmissions* through people, policies and mobility." Final Project Analysis.](https://github.com/smuktevi/data512-a7project/tree/main/A7)
 
 ## Project Introduction
  
