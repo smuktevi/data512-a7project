@@ -2,6 +2,10 @@
 
 ### How did masking policies change the progression of confirmed COVID-19 cases from February 1, 2020 through October 15, 2021?
 
+![viz1](https://github.com/smuktevi/data512-a7project/blob/main/A4/visualizations/a4-viz1.png)
+
+![viz2](https://github.com/smuktevi/data512-a7project/blob/main/A4/visualizations/a4-viz2.png)
+
 ## Visualizations 
 
 This visualization shows the time series graph of the rolling average of the number of confirmed covid cases per day over a 7 day window within the dates of February 1st, 2020 to October 15th, 2021 in Harris County, Texas. The x-axis represents the date within the aforementioned range and the y-axis represents the average number of confirmed cases (over 7 days). In order to interpret the graph, every point on the line corresponding to a date is the 7 day average of confirmed cases around that date. The rolling window average was chosen in this representation in order to remove the seasonality attributes involved in daily confirmed cases data. This representation allows us to clearly see the trends in reporting of confirmed covid cases over this time frame without noise introduced due to weekly reporting practices.  
